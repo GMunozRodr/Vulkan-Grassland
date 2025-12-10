@@ -17,7 +17,7 @@ Scene properties:
 
 # Features
 ### 100% Procedural
-No imported models or textures — everything is generated at runtime. This was a fun challenge that came up while making it.
+No imported models or textures, everything is generated at runtime. This was a fun challenge that came up while making it.
 
 ### Tessellated Terrain
 The landscape is generated using a heightmap with procedurally calculated normals for the underlying terrain. 
